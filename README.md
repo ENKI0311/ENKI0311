@@ -1,6 +1,3 @@
-
-Sure, let's make that more engaging and readable:
-
 👋 Hi, I'm John, bringing 27 years of IT experience to the table.
 
 👀 Interest: Deeply fascinated by the realms of A.I. & Machine Learning.
