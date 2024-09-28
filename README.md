@@ -47,6 +47,10 @@
 ![Google Dorks](https://img.shields.io/badge/-Google%20Dorks-4285F4?style=flat&logo=google&logoColor=white)
 ![FOCA](https://img.shields.io/badge/-FOCA-FFA500?style=flat)
 ![Amass](https://img.shields.io/badge/-Amass-228B22?style=flat)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 
 
 ## About Me
