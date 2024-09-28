@@ -38,6 +38,16 @@
 ![API Integration](https://img.shields.io/badge/-API%20Integration-008080?style=flat&logo=api&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-FF5733?style=flat)
 ![Crewa](https://img.shields.io/badge/-Crewa-FF5733?style=flat&logo=ai)
+![OSINT](https://img.shields.io/badge/-OSINT-1E90FF?style=flat&logo=search&logoColor=white)
+![Maltego](https://img.shields.io/badge/-Maltego-3F88C5?style=flat&logo=maltego&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/-Recon--ng-000000?style=flat&logo=ng&logoColor=white)
+![Shodan](https://img.shields.io/badge/-Shodan-EB1D25?style=flat&logo=shodan&logoColor=white)
+![TheHarvester](https://img.shields.io/badge/-TheHarvester-FFD700?style=flat)
+![SpiderFoot](https://img.shields.io/badge/-SpiderFoot-8B0000?style=flat)
+![Google Dorks](https://img.shields.io/badge/-Google%20Dorks-4285F4?style=flat&logo=google&logoColor=white)
+![FOCA](https://img.shields.io/badge/-FOCA-FFA500?style=flat)
+![Amass](https://img.shields.io/badge/-Amass-228B22?style=flat)
+
 
 ## About Me
 I’m the Founder and Chief AI Consultant at **CodeAI Consulting**, where I focus on delivering cutting-edge AI and machine learning solutions for businesses. With over 28 years in IT, including 10 years at Apple, I bring a wealth of experience in data science, AI/ML model development, and IT consulting.
