@@ -48,7 +48,7 @@
 ![Amass](https://img.shields.io/badge/-Amass-228B22?style=flat)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![MIT Professional Education Certificate in Data Science](https://credentials.professional.mit.edu/e67b888c-3dae-4997-a362-ae4a6508c2fb#acc.C5Hl0nSq)
 
 
 
