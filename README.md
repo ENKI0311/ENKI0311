@@ -1,6 +1,12 @@
-missing anything?:  # Welcome to CodeAI Consulting! 👋
+# Welcome to CodeAI Consulting! 👋
 
-### Tech Stack & Skills:
+At **CodeAI Consulting**, we specialize in cutting-edge AI and machine learning solutions tailored for businesses. Whether you're looking to optimize operations, enhance customer experiences, or innovate through AI-driven strategies, we are here to help!
+
+---
+
+## Tech Stack & Skills
+
+### **AI & Machine Learning**
 ![AI](https://img.shields.io/badge/-AI-1B1F2F?style=flat&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=deeplearning&logoColor=white)
@@ -11,6 +17,8 @@ missing anything?:  # Welcome to CodeAI Consulting! 👋
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+### **Data Science & Analytics**
 ![SVM](https://img.shields.io/badge/-SVM-008080?style=flat&logo=svm&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-228B22?style=flat&logo=decision-tree&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=flat&logo=randomforest&logoColor=white)
@@ -23,9 +31,13 @@ missing anything?:  # Welcome to CodeAI Consulting! 👋
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### **AI Deployment & Automation**
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-FF4500?style=flat&logo=reinforcement-learning&logoColor=white)
 ![AI Deployment](https://img.shields.io/badge/-AI%20Deployment-FF6347?style=flat&logo=ai-deployment&logoColor=white)
 ![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-6A5ACD?style=flat&logo=hyperparameter-tuning&logoColor=white)
+
+### **Programming & Tools**
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -37,6 +49,8 @@ missing anything?:  # Welcome to CodeAI Consulting! 👋
 ![API Integration](https://img.shields.io/badge/-API%20Integration-008080?style=flat&logo=api&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-FF5733?style=flat)
 ![Crewa](https://img.shields.io/badge/-Crewa-FF5733?style=flat&logo=ai)
+
+### **OSINT Tools**
 ![OSINT](https://img.shields.io/badge/-OSINT-1E90FF?style=flat&logo=search&logoColor=white)
 ![Maltego](https://img.shields.io/badge/-Maltego-3F88C5?style=flat&logo=maltego&logoColor=white)
 ![Recon-ng](https://img.shields.io/badge/-Recon--ng-000000?style=flat&logo=ng&logoColor=white)
@@ -49,20 +63,29 @@ missing anything?:  # Welcome to CodeAI Consulting! 👋
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## About Me
-I’m the Founder and Chief AI Consultant at **CodeAI Consulting**, where I focus on delivering cutting-edge AI and machine learning solutions for businesses. With over 28 years in IT, including 10 years at Apple, I bring a wealth of experience in data science, AI/ML model development, and IT consulting.
 
-### Expertise:
-- Artificial Intelligence (AI) & Machine Learning (ML)
+I’m the **Founder and Chief AI Consultant** at **CodeAI Consulting**, with over 28 years of experience in IT, including a decade at Apple. My mission is to deliver transformative AI/ML solutions that drive measurable results.
+
+---
+
+## Projects
+Here are some of my notable projects:
+- [AI-Generated-Art-Trends-2024](https://github.com/ENKI0311/AI-Generated-Art-Trends-2024)
+- [Climate Change Impact on Agriculture](https://github.com/ENKI0311/climate_change_impact_on_agriculture_2024)
+- [Fatalities in ISR-PSE Conflict](https://github.com/ENKI0311/fatalities_isr_pse_conflict_2000_to_2023)
+
+---
+
+## Contact
+- **Email**: [jchilton@codeai.consulting](mailto:jchilton@codeai.consulting)
+- **GitHub**: [ENKI0311](https://github.com/ENKI0311)
+- **LinkedIn**: [John Chilton](https://www.linkedin.com/in/john-chilton-82026a25/)
+
+---
+
+### **Next Steps**
+- Stay tuned for updates on cutting-edge projects and tools!
+- Contributions to open-source projects are always welcome.
